@@ -1,4 +1,4 @@
-<h1 align="left">Desafio Inicial Bootcamp I</h1>
+<h1 align="left">Desafio Bootcamp I</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Site</h2>
+<h3 align="left">Site</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Currículo</h2>
+<h3 align="left">Currículo</h3>
 
 ###
 
@@ -22,10 +22,18 @@
 
 ###
 
-<h2 align="left">Vídeo</h2>
+<h3 align="left">Linkedin</h3>
 
 ###
 
-<p align="left">https://youtu.be/4sW93ZeWb58</p>
+<p align="left">https://www.linkedin.com/in/roberta-furtado/</p>
+
+###
+
+<h3 align="left">Projetos</h3>
+
+###
+
+<p align="left">Projetos iniciais da disciplina de Desenvolvimento de Interfaces</p>
 
 ###
